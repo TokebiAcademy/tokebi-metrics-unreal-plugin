@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "Tokebi Analytics",
+  "Description": "Analytics provider for Tokebi metrics platform - track player behavior and game events",
+  "Category": "Analytics",
+  "CreatedBy": "Tokebi",
+  "CreatedByURL": "https://tokebimetrics.com",
+  "DocsURL": "https://tokebimetrics.com/docs",
+  "MarketplaceURL": "",
+  "SupportURL": "https://tokebimetrics.com/support",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "TokebiAnalytics",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "EnabledByDefault": false
+}
