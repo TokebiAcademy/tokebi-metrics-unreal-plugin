@@ -37,8 +37,7 @@ YourProject/
 │       └── Source/
 │           └── TokebiAnalytics/
 │               ├── TokebiAnalytics.Build.cs
-│               ├── TokebiAnalyticsModule.h
-│               ├── TokebiAnalyticsModule.cpp
+│               ├── TokebiAnalytics.cpp
 │               ├── TokebiAnalyticsFunctions.h
 │               ├── TokebiAnalyticsFunctions.cpp
 │               ├── TokebiAnalyticsSettings.h
